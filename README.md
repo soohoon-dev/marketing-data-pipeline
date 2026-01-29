@@ -1,70 +1,23 @@
-# Portfolio — Soohoon Dev
+# 🚀 Marketing Data Infrastructure & Performance Pipeline
 
-**Technical Performance Marketing Lead | Paid Media + Measurement (GA4/GTM)**
+> **"From Ad Spend to Revenue: Bridging the Gap with Data Engineering"**
 
-**Website (GitHub Pages):** https://soohoon-dev.github.io/portfolio/  
-**Repo:** https://github.com/soohoon-dev/portfolio
+This repository demonstrates the **technical infrastructure** and **data analysis workflows** I used to manage **$2.5M+ in ad spend** and drive measurable growth across multiple verticals (Automotive, Skincare, Digital Products).
 
----
+## 📊 Project Showcase
 
-## Start here
+| Project                                                                                               | Role            | Tech Stack                     | Key Result                                              |
+| :---------------------------------------------------------------------------------------------------- | :-------------- | :----------------------------- | :------------------------------------------------------ |
+| **[01. Automotive Programmatic](./01-automotive-programmatic/)** <br> _(Click to view Full Playbook)_ | Lead Strategist | **DV360, SQL, BigQuery**       | **2,044% CTR Increase** via Dual-Track Bidding Strategy |
+| **[02. Skincare Growth Strategy](./02-skincare-growth-strategy/)**                                    | Data Analyst    | **GA4, Python, Looker Studio** | **96% Time Saved** in Reporting Automation              |
+| **[03. Book Execution Framework](./03-book-execution-framework/)**                                    | Growth Lead     | **R (Tidyverse), Meta Ads**    | **Full-Funnel Validation** (MVP Launch)                 |
 
-- Website Home: https://soohoon-dev.github.io/portfolio/
-- Capabilities: [docs/CAPABILITIES.md](docs/CAPABILITIES.md)
-- Operating System: [docs/OPERATING-SYSTEM.md](docs/OPERATING-SYSTEM.md)
-- Confidentiality: [docs/CONFIDENTIALITY.md](docs/CONFIDENTIALITY.md)
-- Projects index: [projects/README.md](projects/README.md)
-- Creative index: [creative/README.md](creative/README.md)
-- Leadership index: [leadership/README.md](leadership/README.md)
+## 🛠️ Core Competencies Demonstrated
 
----
-
-## Featured
-
-### Automotive Campaign Analytics
-
-**Interactive Dashboard:** Campaign performance evolution (2021-2025)
-
-🔗 **[View Live Dashboard](https://lookerstudio.google.com/s/jmhgqFQRtcI)**
-📂 **[View Case Study](./projects/auto-anon-case-study/)**
-
-**Highlights:**
-
-- Display CTR: +2,044% through precision targeting
-- CTV Completion: 98% with -28% CPM efficiency
-- YouTube Views: +88% with improved engagement
-- Search CTR: +1,454% via exact match strategy
-
-**Tech Stack:** Google Sheets, Looker Studio, Data Visualization
-
-### 🚀 Zero-Budget Growth Strategy (Skincare)
-
-**"Increasing conversion without increasing ad spend via Data Engineering."**
-
-- **Tech Stack:** Python (Pandas ETL), SQL (BigQuery), Looker Studio
-- **Key Insight:** Identified "9 PM Leak" (Operational Gap) & "UX Friction" using raw log analysis.
-- **Link:** [View Project Case Study](projects/skincare-growth-strategy/README.md)
-
-### Execution Framework (Ask → Act)
-
-A complete execution + measurement documentation system:
-
-- Repo: https://github.com/soohoon-dev/book-execution-framework
+- **Measurement:** GA4 Event Taxonomy, GTM Custom Tags, Server-side Tracking.
+- **Pipeline:** ETL workflows from Ad Platforms (Google/Meta) → BigQuery → Visualization.
+- **Analysis:** Attribution Modeling, CAC/LTV Calculation, Fraud Detection.
 
 ---
 
-## How this repo is organized
-
-- `/docs`: website pages (GitHub Pages source)
-- `/projects`: case studies, playbooks, proposals
-- `/creative`: visual archive (web, ads, diagrams, posters, teaching)
-- `/leadership`: community/leadership work
-- `/assets`: images and sanitized files
-
----
-
-## Contact
-
-- GitHub: https://github.com/soohoon-dev
-- LinkedIn: _(add link)_
-- Email: _(add email)_
+_Created by [Soo Hoon Yu](https://github.com/soohoon-dev) | Performance Marketing Lead_
