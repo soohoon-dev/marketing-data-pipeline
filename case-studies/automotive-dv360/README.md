@@ -219,16 +219,16 @@ Interactive visualization of campaign performance analysis.
 ### Dashboard Pages:
 
 **Page 1: Summary**
-![Summary](../../assets/images/auto-anon/dashboard-summary.png)
+![Summary](evidence/dashboard-summary.png)
 
 **Page 2: Display**
-![Display](../../assets/images/auto-anon/dashboard-display.png)
+![Display](evidence/dashboard-display.png)
 
 **Page 3: Video**
-![Video](../../assets/images/auto-anon/dashboard-video.png)
+![Video](evidence/dashboard-video.png)
 
 **Page 4: Search**
-![Search](../../assets/images/auto-anon/dashboard-search.png)
+![Search](evidence/dashboard-search.png)
 
 ---
 
@@ -247,7 +247,6 @@ Interactive visualization of campaign performance analysis.
 
 - [📂 Full Project Portfolio](../../README.md)
 - [📈 Dashboard Configuration Guide](./dashboard-guide.md)
-- [📊 Raw Data Files](../../assets/files/auto-anon/)
 
 ---
 
