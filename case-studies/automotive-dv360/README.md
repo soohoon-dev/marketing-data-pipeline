@@ -232,6 +232,14 @@ Interactive visualization of campaign performance analysis.
 
 ---
 
+## 🔍 Additional Resources
+
+For detailed campaign analysis, hypothesis validation, and methodology:
+
+👉 **[Technical Deep Dive](./docs/detailed-analysis.md)**
+
+---
+
 ## Contact & Portfolio
 
 **Role:** Digital Marketing Analyst specializing in programmatic media optimization
